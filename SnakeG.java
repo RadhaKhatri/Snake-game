@@ -1,8 +1,8 @@
-package Games;
+import java.awt.Color;
+import java.awt.Dimension;
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
 
 public class SnakeG extends JPanel
 {
